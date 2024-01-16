@@ -1,0 +1,98 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214494986147@s.whatsapp.net',
+    fromMe: false,
+    id: 'B27CCA7A6CD01D94C50F97605317E2F7',
+    participant: undefined
+  },
+  messageTimestamp: 1705289545,
+  pushName: 'Cesar Ropon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cesar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cesar',
+  from: '5214494986147'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_71804f80-b0f4-45b8-8e80-eaa40d059682',
+  keyword: 'key_185b66a9-737d-40b9-99c2-b5e81eb2468c',
+  answer: 'Hola esta es una respuesta automatica cuando escribres la palabra Cesar!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7c57a752034be02cfe51d24e022d37a3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214494986147@s.whatsapp.net',
+    fromMe: false,
+    id: 'BB7EC6EEAC16A1A6CAFFFCB1BD57A3E8',
+    participant: undefined
+  },
+  messageTimestamp: 1705289550,
+  pushName: 'Cesar Ropon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ahhh',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ahhh',
+  from: '5214494986147'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214494986147@s.whatsapp.net',
+    fromMe: false,
+    id: '9C0F902EB3BD586BB9AB7EA3A297E595',
+    participant: undefined
+  },
+  messageTimestamp: 1705289553,
+  pushName: 'Cesar Ropon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pwrraaaaaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pwrraaaaaa',
+  from: '5214494986147'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214494986147@s.whatsapp.net',
+    fromMe: false,
+    id: 'D0C624403D0A3EC108ADE793D8EE3503',
+    participant: undefined
+  },
+  messageTimestamp: 1705289556,
+  pushName: 'Cesar Ropon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Asquerosa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Asquerosa',
+  from: '5214494986147'
+}
